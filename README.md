@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Medical Management System**
 
-- 🌱 I’m currently learning **Node JS, Android Development**
+- 🌱 I’m currently learning **Node JS, React JS and PHP**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
